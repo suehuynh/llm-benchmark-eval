@@ -8,12 +8,13 @@ dataset:
 # Model Selection
 models:
   challenger:
-    name: "meta-llama/Llama-3.2-1B-Instruct"
+    name: "mistralai/Mistral-Nemo-Instruct-2407" # Best open-weights summarizer for its size
     type: "huggingface"
     device: "cuda"
   baseline:
-    name: "gpt-4o-mini"
-    type: "openai"
+    name: "meta-llama/Llama-3.2-3B-Instruct" # Significant jump in quality over the 1B version
+    type: "huggingface"
+    device: "cuda"
 
 # Hyperparameters
 generation_params:
