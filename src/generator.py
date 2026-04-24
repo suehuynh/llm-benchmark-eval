@@ -52,36 +52,6 @@ class BaseSummarizer(ABC):
             "word_count": len(generated_text.split())
         }
 
-################ GPTSummarizer ################
-from openai import OpenAI
-load_dotenv()
-
-class GPTSummarizer(BaseSummarizer):
-    """
-    OpenAI-specific implementation of the Summarizer.
-    Inherits prompt formatting and metadata tracking from BaseSummarizer.
-    """
-    def __init__(self, config):
-        super().__init__(config)
-        self.model_name = self.config["models"]["baseline"]["name"]
-        # Setup the API Client
-        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    
-    def _run_inference(self, prompt: str) -> str:
-        """
-        The implementation of the inference logic for OpenAI.
-        """
-        response = self.client.chat.completions.create(
-            model=self.model_name,
-            messages=[
-                {"role": "system", "content": self.config["prompts"]["system_message"]},
-                {"role": "user", "content": prompt}
-            ],
-            temperature = self.params.get('temperature'),
-            max_tokens=self.params.get('max_new_tokens')
-        )   
-        return response.choices[0].message.content
-
 ################ LlamaSummarizer ################
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline

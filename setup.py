@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="anime-recsys",
+    name="llm-benchmark-eval",
     version="0.0.1",
     author="SueHuynh",
     packages= find_packages(),
