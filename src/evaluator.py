@@ -1,6 +1,6 @@
 import pandas as pd
-import evaluator
 import torch
+import evaluate
 from tqdm import tqdm
 
 class SummarizationEvaluation:
@@ -60,3 +60,12 @@ class SummarizationEvaluation:
         )
 
         return scores
+    
+if __name__ == "__main__":
+    config = {"evaluation": {"bertscore_model": "distilbert-base-uncased"}}
+    evaluator = SummarizationEvaluation(config)
+    
+    p = ["The cat is on the mat."]
+    r = ["A cat is sitting on a rug."]
+    
+    print(evaluator.compute_metrics(p, r))
