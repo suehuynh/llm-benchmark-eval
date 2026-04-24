@@ -4,6 +4,7 @@ import time
 from dotenv import load_dotenv
 from abc import ABC, abstractmethod
 
+load_dotenv()
 class BaseSummarizer(ABC):
     """
     Abstract Base Class for all LLM Summarizers.
@@ -17,8 +18,7 @@ class BaseSummarizer(ABC):
     @abstractmethod
     def _run_inference(self, prompt: str) -> str:
         """
-        Hidden method that specific models must implement 
-        (e.g., calling OpenAI API or Hugging Face local model).
+        Hidden method that specific models must implement.
         """
         pass
 
@@ -62,7 +62,7 @@ class LlamaSummarizer(BaseSummarizer):
     """
     def __init__(self, config):
         super().__init__(config)
-        self.model_name = self.config["models"]["challenger"]["name"]
+        self.model_name = self.config["models"]["baseline"]["name"]
 
         if torch.cuda.is_available():
             self.device="cuda"
@@ -77,7 +77,7 @@ class LlamaSummarizer(BaseSummarizer):
             "text-generation",
             model=self.model_name,
             torch_dtype=torch.bfloat16 if self.device != "cpu" else torch.float32,
-            device_map="auto",
+            device=0 if self.device == "cuda" else -1,
             token=os.getenv("HF_TOKEN")
         )
 
@@ -101,12 +101,7 @@ class LlamaSummarizer(BaseSummarizer):
 if __name__ == "__main__":
     with open("config.yaml", "r") as f:
         config = yaml.safe_load(f)
-    # # GPTSummarize
-    # summarizer = GPTSummarizer(config=config)
-    # result = summarizer.summarize("Brown University is located in Providence, RI.")
-    # print(f"Summary: {result['generated_summary']}")
-    # print(f"Latency: {result['latency_seconds']}s")
-    # LlamaSummarize
+    # LlamaSummarizer
     summarizer = LlamaSummarizer(config=config)
     result = summarizer.summarize("Brown University is located in Providence, RI.")
     print(f"Summary: {result['generated_summary']}")
