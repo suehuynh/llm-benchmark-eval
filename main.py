@@ -5,7 +5,7 @@ import pandas as pd
 from dotenv import load_dotenv
 
 from src.loader import DataLoader
-from src.generator import GPTSummarizer, LlamaSummarizer
+from src.generator import LlamaSummarizer
 from src.evaluator import SummarizationEvaluation
 
 load_dotenv()
@@ -32,8 +32,8 @@ def main():
 
     # INITIALIZE MODELS
     summarizers = {
-        "GPT-Baseline": GPTSummarizer(config),
-        "Llama-Challenger": LlamaSummarizer(config)
+        # "GPT-Baseline": GPTSummarizer(config),
+        "Llama-Baseline": LlamaSummarizer(config)
     }
 
     # SUMMARY GENERATION
