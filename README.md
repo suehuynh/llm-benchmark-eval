@@ -5,8 +5,8 @@
 ## 1. Experimental Design
 - Dataset: cnn_dailymail (v3.0.0) – A standard benchmark for news summarization.
 - Models Compared: 
-    - Challenger: Llama-3.2-1B (Open-source, local inference).
-    - Baseline: Mistral Nemo 12B (Open-source, local inference).
+    - Baseline: Llama-3.2-1B (Open-source, local inference).
+    - Challenger: Mistral Nemo 12B (Open-source, local inference).
 - Prompt Strategy: Zero-shot, instruction-tuned prompt focused on "Who, What, Where" extraction to minimize verbosity bias.
 
 ## 2. Methodology & Metrics
