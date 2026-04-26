@@ -2,6 +2,8 @@ import pandas as pd
 import torch
 import evaluate
 from tqdm import tqdm
+import logging
+logger = logging.getLogger(__name__)
 
 class SummarizationEvaluation:
     """
@@ -56,9 +58,9 @@ class SummarizationEvaluation:
 
         scores = self.compute_metrics(
             predictions=valid_df["generated_summary"].tolist(),
-            references=valid_df["reference_summary"].tolist()
+            references=valid_df["reference_summary"].tolist(),
         )
-
+        scores["avg_latency_seconds"] = round(valid_df["latency_seconds"].mean(), 2)
         return scores
     
 if __name__ == "__main__":
