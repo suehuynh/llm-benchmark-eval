@@ -3,17 +3,23 @@ import yaml
 import logging
 import pandas as pd
 from dotenv import load_dotenv
-
+load_dotenv()
 from src.loader import DataLoader
-from src.generator import LlamaSummarizer
+from src.generator import LlamaSummarizer, NemoSummarizer
 from src.evaluator import SummarizationEvaluation
 
-load_dotenv()
+# Create a logs directory if it doesn't exist
+os.makedirs("logs", exist_ok=True)
+# Configure the Root Logger
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("logs/experiment_run.log", mode='a'),
+        logging.StreamHandler()
+    ]
 )
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("main")
 
 def main():
     try:
@@ -32,8 +38,8 @@ def main():
 
     # INITIALIZE MODELS
     summarizers = {
-        # "GPT-Baseline": GPTSummarizer(config),
-        "Llama-Baseline": LlamaSummarizer(config)
+        "Llama-Baseline": LlamaSummarizer(config),
+        "Nemo-Challenger": NemoSummarizer(config)
     }
 
     # SUMMARY GENERATION
