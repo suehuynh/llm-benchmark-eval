@@ -1,0 +1,91 @@
+model,generated_summary,latency_seconds,status,word_count,reference_summary
+mistralai/Mistral-Nemo-Instruct-2407,"• **Palestinian Authority joins International Criminal Court (ICC)**: On April 1, 2015, the Palestinian Authority officially became the 123rd member of the ICC, granting the court jurisdiction over alleged crimes in Palestinian territories.
+• **Potential war crimes investigations**: The ICC can now conduct preliminary examinations and potential investigations into suspected war crimes committed by both Israelis and Palestinians since June 13, 2014.
+• **International reaction**: Israel and the U.S., neither ICC members, opposed the move, while human rights groups like Human Rights Watch welcomed it; the ICC prosecutor vowed to maintain independence and impartiality during any investigations.",17092.94,success,97,"Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June .
+Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Stray dog in Washington State survives being hit by a car, struck with a hammer, and buried.
+• Dog, named Theia, requires extensive medical care including surgery to fix nasal damage and reset her jaw.
+• Fundraising efforts exceed $10,000 to cover Theia's medical expenses, with any additional funds to be used to help other animals.",2174.43,success,57,"Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field .
+""She's a true miracle dog and she deserves a good life,"" says Sara Mellado, who is looking for a home for Theia ."
+mistralai/Mistral-Nemo-Instruct-2407,"• **Zarif Tweeted ""Happy Rosh Hashanah""** in 2013, engaging in dialogue with Christine Pelosi regarding Iran's stance on the Holocaust.
+• **He Studied in the US During the Iranian Revolution**, leaving in 1977 and returning after completing his education.
+• **Feds Investigated Him Over Alleged Role in Alavi Foundation**, but he was not named in the final settlement.",2719.67,success,58,"Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister .
+He once participated in a takeover of the Iranian Consulate in San Francisco .
+The Iranian foreign minister tweets in English ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Five Americans exposed to Ebola in West Africa were released from a Nebraska hospital.
+• One had a heart-related issue and remained in the area; others went home.
+• All were clinicians for Partners in Health and had contact with an infected colleague.",1397.6,success,44,"17 Americans were exposed to the Ebola virus while in Sierra Leone in March .
+Another person was diagnosed with the disease and taken to hospital in Maryland .
+National Institutes of Health says the patient is in fair condition after weeks of treatment ."
+mistralai/Mistral-Nemo-Instruct-2407,"• A Duke student admitted to hanging a noose from a tree near a student union.
+• The student is no longer on campus and faces a student conduct review.
+• The incident sparked protests and a statement from the university president condemning racism.",1453.12,success,44,"Student is no longer on Duke University campus and will face disciplinary review .
+School officials identified student during investigation and the person admitted to hanging the noose, Duke says .
+The noose, made of rope, was discovered on campus about 2 a.m."
+mistralai/Mistral-Nemo-Instruct-2407,"• Trey Moses, a star basketball player, invited Ellie Meredith, a freshman with Down syndrome, to their high school prom.
+• Trey chose Ellie as his date because he finds her a great listener and easy to talk to.
+• The prom-posal went viral on social media, with support from teachers, coaches, and families.",2008.27,success,54,"College-bound basketball star asks girl with Down syndrome to high school prom .
+Pictures of the two during the ""prom-posal"" have gone viral ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Governments worldwide are using the threat of terrorism to justify executions.
+• Global executions decreased by 22% in 2014, but death sentences increased by 28%.
+• Despite improvements, Belarus resumed executions, and several countries still impose capital punishment frequently.",1942.67,success,40,"Amnesty's annual death penalty report catalogs encouraging signs, but setbacks in numbers of those sentenced to death .
+Organization claims that governments around the world are using the threat of terrorism to advance executions .
+The number of executions worldwide has gone down by almost 22% compared with 2013, but death sentences up by 28% ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Andrew Getty, heir to the Getty oil fortune, died aged 47; preliminary findings suggest natural causes.
+• No signs of foul play; autopsy pending, medication found but medical history unknown.
+• Getty had recently sought restraining order against ex-girlfriend due to serious medical condition.",1806.11,success,45,"Andrew Getty's death appears to be from natural causes, police say, citing coroner's early assessment .
+In a petition for a restraining order, Getty had written he had a serious medical condition.
+Police say this is not a criminal matter at this time ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Tropical Storm Maysak (locally named Chedeng) approaches the Philippines with sustained winds over 70 mph.
+• Authorities issue safety measures including banning outdoor activities and evacuations.
+• Storm expected to make landfall Sunday morning in Isabela province and exit by Monday.",1708.72,success,42,"Once a super typhoon, Maysak is now a tropical storm with 70 mph winds .
+It could still cause flooding, landslides and other problems in the Philippines ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Bob Barker made his first appearance as host of ""The Price Is Right"" in eight years.
+• He led contestants through the classic ""Lucky Seven"" game before passing hosting duties back to Drew Carey.
+• At 91, Barker appeared energetic and comfortable in his return to the show.",1612.41,success,49,"Bob Barker returned to host ""The Price Is Right"" on Wednesday .
+Barker, 91, had retired as host in 2007 ."
+mistralai/Mistral-Nemo-Instruct-2407,"• 19-year-old Yahya Rashid charged with terror offenses
+• Arrested upon returning to UK from Turkey
+• Charged with preparing for and assisting in terrorist acts",1020.05,success,26,"London's Metropolitan Police say the man was arrested at Luton airport after landing on a flight from Istanbul .
+He's been charged with terror offenses allegedly committed since the start of November ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Actor Paul Walker died in 2013 during a break from filming ""Furious 7"", with his character later written out of the series using special effects and his brothers as stand-ins.
+• Fans and colleagues remember Walker as a kind and humble person, with Vin Diesel naming his daughter after him and thousands attending a memorial service.
+• The release of ""Furious 7"" serves as a tribute to Walker, with the film's ending providing a poignant farewell to his character, Brian O'Connor.",3022.52,success,82,"""Furious 7"" pays tribute to star Paul Walker, who died during filming .
+Vin Diesel: ""This movie is more than a movie""
+""Furious 7"" opens Friday ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Anne Frank likely died of typhus in Bergen-Belsen camp in late January or early February 1945, not in March as previously believed.
+• New research based on archival records and survivor testimonies suggests Anne and her sister Margot did not survive until March 1945.
+• Anne and Margot experienced harsh conditions in the overcrowded Bergen-Belsen camp, including lack of sanitation, inadequate food, and exposure to lice, leading to typhus infection.",2831.77,success,71,"Museum: Anne Frank died earlier than previously believed .
+Researchers re-examined archives and testimonies of survivors .
+Anne and older sister Margot Frank are believed to have died in February 1945 ."
+mistralai/Mistral-Nemo-Instruct-2407,"• **Pence Signs Controversial Religious Freedom Law**: Indiana Governor Mike Pence signed a religious freedom law that critics argue allows discrimination against gays and lesbians, sparking national controversy.
+• **Political Calculus Behind Pence's Action**: Pence's move is seen as an attempt to shore up his conservative credentials ahead of a potential 2016 presidential run, despite opposition from Indiana's business community.
+• **Impact on 2016 Presidential Race**: The debate surrounding the law is pulling the Republican field further to the right on social issues, potentially influencing the party's nominee and the general election platform.",3906.47,success,93,"LZ: Indiana law pushing back LGBT rights, and other states' anti-LGBT moves, bow to far right wing that GOP candidates need for 2016 .
+Cruz, Huckabee, Jindal, Carson, Walker are reviving culture wars, he says.  Equality for LGBT has not yet ""won"" in America ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Famous performers face high scrutiny when singing the U.S. national anthem.
+• Vince Neil's recent performance was widely criticized as poorly executed.
+• Previous notable performances range from Whitney Houston's praised rendition to Roseanne Barr's heavily criticized version.",1461.38,success,39,"Singing the national anthem is a risky proposition .
+Whitney Houston nailed it; Roseanne Barr destroyed it ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Walmart opposes religious freedom bills in Arkansas and Indiana due to potential discrimination against LGBT customers.
+• Company's stance reflects growing support for gay rights among consumers and businesses.
+• Prominent Republicans urge party to adopt more inclusive policies to appeal to middle-class voters.",2010.56,success,45,"While Republican Gov. Asa Hutchinson was weighing an Arkansas religious freedom bill, Walmart voiced its opposition .
+Walmart and other high-profile businesses are showing their support for gay and lesbian rights .
+Their stance puts them in conflict with socially conservative Republicans, traditionally seen as allies ."
+mistralai/Mistral-Nemo-Instruct-2407,"• China held a mass sentencing event, sentencing 55 people to death.
+• Governments worldwide used the death penalty as a response to terrorism and crime, despite lack of evidence supporting its effectiveness as a deterrent.
+• Despite concerning trends, global support for the death penalty decreased, with fewer executions recorded in 2014 compared to previous years.",2340.34,success,57,"Amnesty International releases its annual review of the death penalty worldwide; much of it makes for grim reading .
+Salil Shetty: Countries that use executions to deal with problems are on the wrong side of history ."
+mistralai/Mistral-Nemo-Instruct-2407,"• French prosecutor denies knowledge of onboard video from Germanwings Flight 9525.
+• Two magazines claim to have seen a cell phone video from the crash, describing screams and metallic banging.
+• Co-pilot Andreas Lubitz had a history of depression; Lufthansa confirms he informed them in 2009.",2424.99,success,47,"Marseille prosecutor says ""so far no videos were used in the crash investigation"" despite media reports .
+Journalists at Bild and Paris Match are ""very confident"" the video clip is real, an editor says .
+Andreas Lubitz had informed his Lufthansa training school of an episode of severe depression, airline says ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Rev. Robert H. Schuller, founder of ""Hour of Power"" TV ministry and Crystal Cathedral megachurch, died at age 88.
+• Schuller, known for his positive, encouraging messages, pioneered televised church services and influenced generations of evangelicals.
+• Despite later family disputes and financial struggles leading to bankruptcy, Crystal Cathedral remains a landmark in Orange County, California.",2618.62,success,57,"The Rev. Robert Schuller, 88, had been diagnosed with esophageal cancer in 2013 .
+His TV show, ""Hour of Power,"" was enormously popular in the 1970s and 1980s ."
+mistralai/Mistral-Nemo-Instruct-2407,"• Michele Bachmann compared President Obama's Iran deal to Andreas Lubitz crashing Germanwings Flight 9525.
+• Critics slammed Bachmann's comparison as inappropriate, divisive, and disrespectful.
+• Bachmann has previously urged Obama to ""bomb Iran"" over its nuclear program.",1884.22,success,38,"Former GOP representative compares President Obama to Andreas Lubitz .
+Bachmann said with possible Iran deal, Obama will fly ""entire nation into the rocks""
+Reaction on social media? She was blasted by Facebook commenters ."

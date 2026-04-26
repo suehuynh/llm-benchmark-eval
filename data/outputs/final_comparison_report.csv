@@ -1,0 +1,3 @@
+Model,rougeL,bert_f1_avg,avg_latency_seconds
+Llama-Baseline,0.1633,0.8635,124.71
+Nemo-Challenger,0.2288,0.8762,2871.84

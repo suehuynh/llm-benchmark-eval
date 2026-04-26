@@ -1,0 +1,149 @@
+model,generated_summary,latency_seconds,status,word_count,reference_summary
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• The Palestinian Authority has become the 123rd member of the International Criminal Court (ICC), giving the court jurisdiction over alleged crimes in Palestinian territories, including East Jerusalem, since June 2014.
+• The move is seen as a significant step towards greater justice, but has been met with opposition from Israel and the US, which do not recognize Palestine as a sovereign state and have urged the warring sides to resolve their differences through direct negotiations.
+• The ICC has already begun a preliminary examination into the situation in Palestinian territories, which could lead to potential war crimes investigations against Israelis, and human rights groups have welcomed the development, calling for an end to attempts to undermine international justice.",141.15,success,127,"Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June .
+Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• A stray dog named Theia, a 1-year-old bully breed mix, has made a miraculous recovery after surviving multiple near-fatal incidents, including being hit by a car, beaten with a hammer, and buried in a field, before stumbling into a farm and being rescued.
+• Despite suffering severe injuries, including a dislocated jaw, leg injuries, and a caved-in sinus cavity, Theia is receiving medical treatment at a university hospital and has already received significant financial support from donors, which has helped cover some of the costs.
+• Theia's owner, Sara Mellado, has set up a fundraising page to continue supporting the dog's medical expenses and has already exceeded her initial goal of $10,000, with all excess funds going towards helping other animals in need.",122.22,success,132,"Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field .
+""She's a true miracle dog and she deserves a good life,"" says Sara Mellado, who is looking for a home for Theia ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article about Mohammad Javad Zarif:
+
+• Mohammad Javad Zarif, the Iranian foreign minister, has been instrumental in negotiating a potential deal with the US to ease sanctions on Iran, but few people know much about his personal life, including his age, birthdate, and early years. His exact birthdate is disputed between 1959, 1960, and 1961.
+
+• Zarif has a complex past, having been involved in student protests during the Iranian Revolution in the late 1970s and later working for the Iranian government, although he claims to have been abroad during those events. He also faced allegations of involvement in a secret Iranian front group accused of laundering money for the Iranian government.
+
+• Despite these controversies, Zarif has developed close ties with US Secretary of State John Kerry, spending more time with him than any other foreign minister, and has become known for his jovial demeanor, earning him a hero's welcome in Iran upon his return.",193.94,success,163,"Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister .
+He once participated in a takeover of the Iranian Consulate in San Francisco .
+The Iranian foreign minister tweets in English ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Five American healthcare workers from Partners in Health, who were exposed to Ebola while working in West Africa, have been released from a Nebraska hospital after being monitored for three weeks.
+• One of the individuals had a minor medical issue and remains hospitalized, while the other four have returned home; one of their colleagues who contracted Ebola is currently in stable condition at the NIH in Maryland.
+• All five were exposed to Ebola through contact with a colleague who was diagnosed with the disease, and the CDC expects the remaining 12 patients to be released by Thursday, marking a significant milestone in the ongoing Ebola outbreak in West Africa.",77.1,success,120,"17 Americans were exposed to the Ebola virus while in Sierra Leone in March .
+Another person was diagnosed with the disease and taken to hospital in Maryland .
+National Institutes of Health says the patient is in fair condition after weeks of treatment ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• A Duke University student has admitted to hanging a noose made of rope from a tree near a student union, prompting a university-wide response and condemnation from administrators and students.
+• The student, whose identity has been kept confidential due to federal privacy laws, is no longer on campus and faces student conduct review, while criminal investigations are ongoing to determine if others were involved in the incident.
+• The incident is part of a larger trend of racist incidents affecting college campuses, including a recent case at the University of Oklahoma where a fraternity had its charter revoked and two students expelled, and a similar incident at the University of Mississippi where a noose was hung around a statue of a civil rights figure.",93.96,success,134,"Student is no longer on Duke University campus and will face disciplinary review .
+School officials identified student during investigation and the person admitted to hanging the noose, Duke says .
+The noose, made of rope, was discovered on campus about 2 a.m."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Trey Moses, a star basketball player at Eastern High School in Kentucky, surprised everyone by asking his friend Ellie Meredith, a freshman with Down syndrome, to be his prom date, rather than his original girlfriend.
+• The prom-posal was a thoughtful gesture that included flowers, a poster referencing Ellie's favorite singer, and permission from her parents, which was facilitated by a special program at the school called Best Buddies that helps students with developmental disabilities connect with their peers.
+• The unexpected ask has brought attention to the importance of inclusion and acceptance, with both Trey's coaches and family members praising the move, and Ellie's mother noting that the experience has helped her daughter feel more confident and connected socially.",101.76,success,129,"College-bound basketball star asks girl with Down syndrome to high school prom .
+Pictures of the two during the ""prom-posal"" have gone viral ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Governments around the world are using the threat of terrorism to justify the use of the death penalty, according to Amnesty International's annual report on the death penalty, which found that the number of executions decreased by 22% in 2014, but the number of people sentenced to death increased by 28%.
+
+• Despite the decline in executions, the report highlights concerns about the fairness of judicial processes leading to death sentences, citing examples of flawed trials in countries such as Afghanistan, Bangladesh, China, Egypt, Iran, Iraq, North Korea, Pakistan, Saudi Arabia, and Sri Lanka.
+
+• The report notes that while there are positive trends towards abolition, particularly in sub-Saharan Africa and the Middle East and North Africa, the US remains one of the worst offenders for imposing capital punishment, with thousands of estimated executions per year, and the UN Secretary-General has called for continued efforts to abolish the death penalty due to its irreversibility and incompatibility with human rights.",164.62,success,168,"Amnesty's annual death penalty report catalogs encouraging signs, but setbacks in numbers of those sentenced to death .
+Organization claims that governments around the world are using the threat of terrorism to advance executions .
+The number of executions worldwide has gone down by almost 22% compared with 2013, but death sentences up by 28% ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Andrew Getty, a 47-year-old heir to the Getty oil fortune, has died under mysterious circumstances, with the Los Angeles Police Department ruling out foul play and indicating that his death was due to natural causes.
+• An autopsy will be conducted to determine the exact cause of death, but police have found evidence of medication at the scene, although it's unclear if Getty was taking it or if he had any underlying medical conditions.
+• Getty's death comes after a recent court filing by his brother Gordon Getty, who has a net worth of $2.1 billion, in which Andrew Getty sought a restraining order against an ex-girlfriend citing a serious medical condition that made him vulnerable to violent outbursts.",91.08,success,128,"Andrew Getty's death appears to be from natural causes, police say, citing coroner's early assessment .
+In a petition for a restraining order, Getty had written he had a serious medical condition.
+Police say this is not a criminal matter at this time ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Tropical Storm Chedeng (formerly known as Super Typhoon Maysak) is approaching the Philippines, bringing strong winds of over 70mph and gusts up to 90mph, prompting authorities to take precautions and evacuate some areas.
+• The storm is expected to make landfall on the southeastern coast of Isabela province on Sunday morning, although its impact is uncertain and officials are warning residents to prepare for a potentially severe storm.
+• Authorities have barred outdoor activities in some areas, cancelled tourist bookings, and ordered evacuations ahead of the storm, with Governor Faustino Dry III advising residents to treat the storm as an ""ordinary typhoon"" due to the uncertainty of its impact.",81.85,success,118,"Once a super typhoon, Maysak is now a tropical storm with 70 mph winds .
+It could still cause flooding, landslides and other problems in the Philippines ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• For the first time in eight years, Bob Barker returned as host of ""The Price Is Right"", replacing Drew Carey for a special April 1 episode.
+• At 91 years old, Barker showed no signs of slowing down and handled the first price-guessing game, ""Lucky Seven"", with ease.
+• After completing his hosting duties, Barker handed over to Carey, allowing him to finish out the show, marking Barker's return to the iconic role after an eight-year absence.",45.07,success,86,"Bob Barker returned to host ""The Price Is Right"" on Wednesday .
+Barker, 91, had retired as host in 2007 ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• A 19-year-old British man, Yahya Rashid, has been charged with terror offenses after being arrested upon his return to London from Turkey.
+• The charges include engaging in conduct in preparation of acts of terrorism and assisting others to commit such acts, both related to the period between November 1 and March 31.
+• Rashid is set to appear in court on Wednesday to face the charges, which were made by the Metropolitan Police.",42.64,success,83,"London's Metropolitan Police say the man was arrested at Luton airport after landing on a flight from Istanbul .
+He's been charged with terror offenses allegedly committed since the start of November ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Paul Walker's death in a car crash in 2013 was a shock to fans and colleagues alike, and the release of ""Furious 7"" provides an opportunity for fans to remember and honor his memory through the film's emotional tribute to him.
+
+• Despite initial plans to write out his character, the film's producers decided to use special effects and have Walker's brothers serve as body doubles to complete some scenes, allowing his legacy to live on in the movie.
+
+• Tributes to Walker have poured in from fans and fellow actors, including a heartfelt speech by co-star Vin Diesel at the film's premiere, and social media has been filled with messages of appreciation and admiration for the late actor, who was remembered as kind, humble, and compassionate.",122.04,success,136,"""Furious 7"" pays tribute to star Paul Walker, who died during filming .
+Vin Diesel: ""This movie is more than a movie""
+""Furious 7"" opens Friday ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• New research suggests that Anne Frank and her sister Margot likely died at least a month before the previously reported date of March 1945, when the Bergen-Belsen concentration camp was liberated, due to exposure to typhus caused by lice infestation.
+
+• The researchers analyzed archival records and survivor testimonies to conclude that Anne and Margot suffered from severe symptoms of typhus in late January or early February 1945, making it unlikely they survived until March.
+
+• The exact dates of their deaths remain unknown, but experts believe Margot died before Anne, who continued to hold onto hope despite the dire circumstances, as described by her friend Nannette Blitz, who witnessed her condition deteriorating over time.",106.45,success,124,"Museum: Anne Frank died earlier than previously believed .
+Researchers re-examined archives and testimonies of survivors .
+Anne and older sister Margot Frank are believed to have died in February 1945 ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Mike Pence's signing of Indiana's Religious Freedom Restoration Act, which allows businesses to discriminate against LGBTQ individuals based on their religion, has sparked widespread criticism and backlash, despite being backed by the Koch brothers and other conservative groups, potentially hurting his chances in the 2016 presidential race.
+
+• Pence's move is seen as a strategic attempt to shore up his credentials with ultra-conservative voters, but it has instead drawn attention to the growing divide within the Republican Party on social issues, with many prominent figures, including Jeb Bush and Ted Cruz, defending the bill and calling for a constitutional amendment to ban same-sex marriage.
+
+• The controversy highlights the tension between progressive and conservative views on LGBTQ rights, with some arguing that the Republican Party is moving further to the right on these issues, potentially alienating moderate voters and creating a ""culture war"" scenario that could impact the outcome of the 2016 presidential election.",185.51,success,163,"LZ: Indiana law pushing back LGBT rights, and other states' anti-LGBT moves, bow to far right wing that GOP candidates need for 2016 .
+Cruz, Huckabee, Jindal, Carson, Walker are reviving culture wars, he says.  Equality for LGBT has not yet ""won"" in America ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Several high-profile individuals, including Vince Neil, Whitney Houston, Roseanne Barr, Jimi Hendrix, and Michael Bolton, have performed the national anthem with varying degrees of success, some becoming national heroes while others have been widely criticized as ""butchering"" the song.
+• The tone and style of performances can greatly impact how they are received by audiences and even the president - Whitney Houston's iconic performance was praised, while Roseanne Barr's was met with boos and a presidential rebuke.
+• Notable examples of subpar national anthem performances include Jimi Hendrix's psychedelic take at Woodstock and Michael Bolton's awkward rendition at the 2003 American League Championship Series, which featured him singing along to crib notes.",79.05,success,121,"Singing the national anthem is a risky proposition .
+Whitney Houston nailed it; Roseanne Barr destroyed it ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Walmart, a major employer in Arkansas, has spoken out against a proposed religious freedom law, citing concerns that it would allow discrimination against LGBTQ+ individuals, and its CEO's opposition has sparked a wave of similar criticisms from other companies, including Apple and the NCAA.
+
+• This stance has led some prominent Republicans to suggest that the party needs to shift its focus towards supporting policies that benefit the middle class, such as increasing the minimum wage and prohibiting discrimination based on sexual orientation, in order to remain relevant and appealing to voters.
+
+• The backlash against the religious freedom laws has highlighted the growing support for LGBTQ+ rights among the business community, with many companies, including Walmart, expressing their commitment to inclusive workplace policies and criticizing discriminatory laws, and has raised questions about whether the Republican Party can reconcile its stance on religious freedom with its support for LGBTQ+ rights.",190.93,success,159,"While Republican Gov. Asa Hutchinson was weighing an Arkansas religious freedom bill, Walmart voiced its opposition .
+Walmart and other high-profile businesses are showing their support for gay and lesbian rights .
+Their stance puts them in conflict with socially conservative Republicans, traditionally seen as allies ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• The Chinese government recently carried out a mass trial and execution of 55 people accused of violent attacks in the Xinjiang region, highlighting the widespread use of the death penalty as a means to tackle crime and terrorism, despite its lack of effectiveness as a deterrent.
+
+• The death penalty is being used in various countries, including Pakistan, Iran, Iraq, Jordan, and Indonesia, often in response to perceived threats or surges in crime rates, but human rights organizations argue that this approach is misguided and ineffective, citing a lack of evidence that the threat of execution deters crime.
+
+• According to Amnesty International, while the number of executions globally decreased slightly in 2014, with 607 recorded, the organization argues that the death penalty should be abolished due to its inherent cruelty and ineffectiveness, and calls on governments to join the growing list of countries that have already abolished the practice.",147.67,success,159,"Amnesty International releases its annual review of the death penalty worldwide; much of it makes for grim reading .
+Salil Shetty: Countries that use executions to deal with problems are on the wrong side of history ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• The investigation into the crash of Germanwings Flight 9525 has been complicated by reports of a cell phone video allegedly showing the final moments of the crash, which was claimed to have been recovered from a phone at the wreckage site. However, the French prosecutor leading the investigation, Brice Robin, denied knowing of any such video and stated that no videos have been used in the investigation so far.
+
+• The co-pilot of the plane, Andreas Lubitz, had a history of depression and had previously undergone therapy and received a clean bill of health from his airline, Lufthansa, despite having expressed suicidal thoughts and fears about losing his pilot's license due to his medical conditions.
+
+• The investigation is ongoing, with officials stating that DNA analysis may allow them to identify all the victims within the next few days, and that the recovery of personal belongings, including cell phones, will begin soon. Authorities are still trying to determine the motivations behind Lubitz's actions, with theories ranging from fear of losing his license to a desire to punish others for his perceived shortcomings.",230.45,success,191,"Marseille prosecutor says ""so far no videos were used in the crash investigation"" despite media reports .
+Journalists at Bild and Paris Match are ""very confident"" the video clip is real, an editor says .
+Andreas Lubitz had informed his Lufthansa training school of an episode of severe depression, airline says ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Rev. Robert H. Schuller, the founder of the ""Hour of Power"" television ministry and Crystal Cathedral megachurch, has died at the age of 88 due to complications from esophageal cancer. Schuller was known for his charismatic and inclusive approach to Christianity, which emphasized ""possibility thinking"" and encouraged people to focus on personal transformation and hope.
+
+• Schuller's life was marked by controversy and criticism, particularly regarding his unconventional methods and what some saw as a lack of theological depth. However, his ability to connect with a wide audience and deliver an uplifting message earned him widespread popularity and recognition, including praise from scholars and fellow evangelists.
+
+• Despite his success, Schuller's legacy was marred by a succession scandal involving his son Bobby Jr., who was installed as pastor of Crystal Cathedral but ultimately failed to fill his father's shoes. The church eventually filed for bankruptcy, and Schuller's empire declined, although his grandson later took over the ""Hour of Power"" ministry.",184.92,success,169,"The Rev. Robert Schuller, 88, had been diagnosed with esophageal cancer in 2013 .
+His TV show, ""Hour of Power,"" was enormously popular in the 1970s and 1980s ."
+meta-llama/Llama-3.2-3B-Instruct,"Here are three bullet points summarizing the article:
+
+• Former Rep. Michele Bachmann compared President Obama to Andreas Lubitz, the co-pilot of the crashed Germanwings flight, saying that Obama's Iran deal is like Lubitz's deliberate actions, which killed 151 people.
+• Bachmann's comparison sparked widespread criticism on social media, with many calling it ""moronic"", ""despicable"", and ""outrageous"", with some accusing her of trying to stay relevant by posting provocative statements.
+• Bachmann has a history of making inflammatory comments about Obama, including telling him to ""bomb Iran"" during a 2014 White House Christmas party, and has been criticized for her divisive rhetoric.",91.7,success,102,"Former GOP representative compares President Obama to Andreas Lubitz .
+Bachmann said with possible Iran deal, Obama will fly ""entire nation into the rocks""
+Reaction on social media? She was blasted by Facebook commenters ."
